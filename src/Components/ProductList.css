@@ -1,0 +1,11 @@
+/* .productList {
+  width: 50%;
+  height: 0%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+} */
+
+.productList ul {
+  list-style: none;
+}
